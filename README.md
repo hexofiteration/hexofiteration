@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Rendani 👋
 
 I'm a self-taught developer based in South Africa, currently working through [The Odin Project](https://www.theodinproject.com/) foundations curriculum.
